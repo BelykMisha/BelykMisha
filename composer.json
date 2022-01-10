@@ -17,10 +17,12 @@
     "require": {
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "2.x-dev@dev",
+        "drupal/bootstrap5": "^1.1",
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
         "drupal/field_group": "3.x-dev@dev",
+        "drupal/paragraphs": "^1.12",
         "drush/drush": "^10.6"
     },
     "conflict": {
