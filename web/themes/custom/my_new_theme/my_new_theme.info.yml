@@ -1,0 +1,22 @@
+name: Mytheme
+type: theme
+description: 'Theme override Bootstrap 5'
+core_version_requirement: ^8.9 || ^9
+base theme: bootstrap5
+
+libraries:
+  - bootstrap5/bootstrap5-js-latest
+  - bootstrap5/global-styling
+  - my_new_theme/global-styling
+
+regions:
+  header: Header
+  nav_branding: 'Navigation branding region'
+  nav_main: 'Main navigation region'
+  nav_additional: 'Additional navigation region (eg search form, social icons, etc)'
+  breadcrumb: Breadcrumbs
+  content: 'Main content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: Footer
+
