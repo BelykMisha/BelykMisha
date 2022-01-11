@@ -1,0 +1,10 @@
+uuid: b69d3274-8aff-4984-9afa-15c6a818a3dd
+langcode: ru
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nzL5d024NjXIX_8TlT6uFAu973lmfkmHklJC-2i9rAE
+id: medium
+label: 'Средняя дата по умолчанию'
+locked: false
+pattern: 'D, m/d/Y - H:i'

@@ -1,0 +1,42 @@
+uuid: 5b649d17-2ecb-46c3-ba77-ef83cd909adc
+langcode: ru
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.node.field_date_create
+    - field.field.node.node.field_image
+    - field.field.node.node.field_tags
+    - field.field.node.node.field_text
+    - image.style.medium
+    - node.type.node
+  module:
+    - image
+    - user
+id: node.node.teaser
+targetEntityType: node
+bundle: node
+mode: teaser
+content:
+  field_image:
+    type: image
+    label: hidden
+    settings:
+      image_link: content
+      image_style: medium
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_tags:
+    type: entity_reference_label
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  field_date_create: true
+  field_text: true
+  langcode: true
+  links: true

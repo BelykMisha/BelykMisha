@@ -1,0 +1,19 @@
+uuid: cf6523a3-1b53-481e-9e22-fed32310ba6b
+langcode: ru
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+      - account
+    parent: 'main:'
+name: news
+type: node
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

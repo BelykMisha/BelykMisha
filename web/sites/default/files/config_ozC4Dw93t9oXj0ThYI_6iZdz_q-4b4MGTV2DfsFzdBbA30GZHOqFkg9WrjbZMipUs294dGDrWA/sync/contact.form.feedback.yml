@@ -1,0 +1,14 @@
+uuid: ca244434-0e0e-460b-b74d-f42f33e8cf78
+langcode: ru
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Обратная связь с сайтом'
+recipients:
+  - belykmisha@gmail.com
+reply: ''
+weight: 0
+message: 'Ваше сообщение отправлено.'
+redirect: ''
