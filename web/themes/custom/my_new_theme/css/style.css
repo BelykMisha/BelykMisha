@@ -1,5 +1,7 @@
-/*.img-fluid{*/
-/*  width:100%;*/
-/*}*/
-/*.field--tags__items{*/
+.img-fluid{
+  width:50%;
+}
+.field--tags__items{
+  postion:absolute;
+}
 
