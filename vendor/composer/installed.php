@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'efeccb2716cc111abea44a8ed511371379aefd8d',
+        'reference' => 'ecdd97a71e20bc1318c0479311f11ba16608e750',
         'name' => 'drupal/recommended-project',
         'dev' => true,
     ),
@@ -783,12 +783,12 @@
             ),
         ),
         'drupal/recommended-project' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'efeccb2716cc111abea44a8ed511371379aefd8d',
+            'reference' => 'ecdd97a71e20bc1318c0479311f11ba16608e750',
             'dev_requirement' => false,
         ),
         'drupal/responsive_image' => array(

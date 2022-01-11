@@ -1,13 +1,5 @@
-.node__content{
-  position:relative;
-}
-.node--date{
-  position:absolute;
+/*.img-fluid{*/
+/*  width:100%;*/
+/*}*/
+/*.field--tags__items{*/
 
-}
-.field--name-field-tags{
-  color: #0f5132;
-}
-.img-fluid{
-  width:100%;
-}
