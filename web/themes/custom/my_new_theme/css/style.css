@@ -1,7 +1,23 @@
-/*.img-fluid{*/
-/*  width:50%;*/
-/*}*/
-/*.field--tags__items{*/
-/*  postion:absolute;*/
-/*}*/
+.node__content{
+  position:relative;
+}
+.img-fluid{
+  width:100%;
+  max-height: 267px;
+}
+.field--name-field-tags{
+  position:absolute;
+  font-weight: bold;
+  font-style: oblique;
+  top:5%;
+  left:5%;
+}
+.node--date{
+  color: #ffffff;
+  font-style: italic;
+  font-weight: bold;
+  position:absolute;
+  top:5%;
+  right:5%;
+}
 
