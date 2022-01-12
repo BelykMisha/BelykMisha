@@ -8,7 +8,7 @@ dependencies:
     - field.field.node.node.field_image
     - field.field.node.node.field_tags
     - field.field.node.node.field_text
-    - image.style.medium
+    - image.style.large
     - node.type.node
   module:
     - image
@@ -23,7 +23,7 @@ content:
     label: hidden
     settings:
       image_link: content
-      image_style: medium
+      image_style: large
     third_party_settings: {  }
     weight: 0
     region: content

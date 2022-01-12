@@ -12,7 +12,7 @@ third_party_settings:
     parent: 'main:'
 name: news
 type: node
-description: ''
+description: 'News for site'
 help: ''
 new_revision: true
 preview_mode: 1
