@@ -1,8 +1,0 @@
-uuid: 0eaa07c6-c838-410a-9159-cec934052f16
-langcode: en
-status: true
-dependencies: {  }
-name: news_category
-vid: news_category
-description: ''
-weight: 0
