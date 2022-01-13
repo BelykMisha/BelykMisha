@@ -65,3 +65,4 @@
 # ignore sql
 sql.sql
 dumpfile.sql
+/vendor
