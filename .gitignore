@@ -62,3 +62,6 @@
 /drush
 /drupal.phar
 /drupal
+# ignore sql
+sql.sql
+dumpfile.sql

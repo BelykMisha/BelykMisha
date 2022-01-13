@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bigmir-news" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/modules/contrib/admin_toolbar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/modules/contrib/field_group" vcs="Git" />
   </component>
 </project>
